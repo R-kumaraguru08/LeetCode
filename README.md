@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
