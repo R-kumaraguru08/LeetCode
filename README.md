@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
