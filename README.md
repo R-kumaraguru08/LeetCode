@@ -15,19 +15,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/R-kumaraguru08/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/R-kumaraguru08/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Search
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/R-kumaraguru08/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
