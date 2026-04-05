@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/R-kumaraguru08/LeetCode/tree/master/0709-to-lower-case) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/R-kumaraguru08/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/R-kumaraguru08/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Array
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/R-kumaraguru08/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+## Simulation
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/R-kumaraguru08/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
