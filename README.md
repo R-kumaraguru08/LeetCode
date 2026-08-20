@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/R-kumaraguru08/LeetCode/tree/master/2906-construct-product-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/R-kumaraguru08/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/R-kumaraguru08/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/R-kumaraguru08/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/R-kumaraguru08/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/R-kumaraguru08/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/R-kumaraguru08/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
