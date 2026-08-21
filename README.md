@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R-kumaraguru08/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/R-kumaraguru08/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/R-kumaraguru08/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/R-kumaraguru08/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
