@@ -1,29 +1,37 @@
-class Solution { 
-    public int[] successfulPairs(int[] spells, int[] potions, long success) { 
-        Arrays.sort(potions); 
-        int[] op = new int[spells.length]; 
-        
-        for (int i = 0; i < spells.length; i++) {
-            
-            long minPotion = (success + spells[i] - 1) / spells[i];
-            
-            int left = 0;
-            int right = potions.length - 1;
-            int firstValidIndex = potions.length; 
-            
-            while (left <= right) {
-                int mid = left + (right - left) / 2;
-                if (potions[mid] >= minPotion) {
-                    firstValidIndex = mid; 
-                    right = mid - 1;
-                } else {
-                    left = mid + 1;
-                }
+class Solution {
+    public static int[] successfulPairs(int[] spells, int[] potions, long success) {
+        int maxPotion = 0;
+
+        for (int potion : potions) {
+            if (potion > maxPotion) {
+                maxPotion = potion;
             }
-            
-            op[i] = potions.length - firstValidIndex;
-        } 
-        
-        return op; 
-    } 
+        }
+
+        int[] potionCounts = new int[maxPotion + 1];
+        for (int potion : potions) {
+            potionCounts[potion]++;
+        }
+
+        int runningCount = 0;
+
+        for (int i = maxPotion; i >= 0; i--) {
+            runningCount += potionCounts[i];
+            potionCounts[i] = runningCount;
+        }
+
+        int[] pairs = new int[spells.length];
+
+        for (int i = 0; i < spells.length; i++) {
+            int spell = spells[i];
+
+            long target = (success + spell - 1) / spell;
+
+            if (target <= maxPotion) {
+                pairs[i] = potionCounts[(int) target];
+            }
+        }
+
+        return pairs;
+    }
 }
