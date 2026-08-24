@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/R-kumaraguru08/LeetCode/tree/master/0007-reverse-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/R-kumaraguru08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
