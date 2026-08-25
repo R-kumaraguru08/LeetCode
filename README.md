@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/R-kumaraguru08/LeetCode/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/R-kumaraguru08/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/R-kumaraguru08/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/R-kumaraguru08/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/R-kumaraguru08/LeetCode/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/R-kumaraguru08/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/R-kumaraguru08/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/R-kumaraguru08/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
