@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/R-kumaraguru08/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/R-kumaraguru08/LeetCode/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/R-kumaraguru08/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/R-kumaraguru08/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/R-kumaraguru08/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/R-kumaraguru08/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1768-merge-strings-alternately](https://github.com/R-kumaraguru08/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/R-kumaraguru08/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Newton's Method
 |  |
