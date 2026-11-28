@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/R-kumaraguru08/LeetCode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/R-kumaraguru08/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/R-kumaraguru08/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/R-kumaraguru08/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/R-kumaraguru08/LeetCode/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/R-kumaraguru08/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
